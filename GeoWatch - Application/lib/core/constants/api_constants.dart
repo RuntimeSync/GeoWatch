@@ -1,12 +1,10 @@
 class ApiConstants {
 
-  // Backend server running on your laptop
-  // IP taken from ipconfig (Wi-Fi IPv4 Address)
-
-  static const String baseUrl = 'http://10.96.130.210:8080';
+  // Production Railway Backend
+  static const String baseUrl =
+      'https://geo-watch-production-0394.up.railway.app';
 
   // APIs
   static const String nearbyEvents = '/api/events/nearby';
-
   static const String incidents = '/api/incidents';
 }
