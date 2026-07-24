@@ -1,5 +1,6 @@
 # GeoWatch
 
+[![Release](https://img.shields.io/github/v/release/RuntimeSync/GeoWatch)](https://github.com/RuntimeSync/GeoWatch/releases)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success)](https://geo-watch.pages.dev/)
 [![Performance Report](https://img.shields.io/badge/Performance-Report-blue)](./GeoWatch_Scalability_Performance_Validation_Report.md)
 [![Backend](https://img.shields.io/badge/Backend-Spring%20Boot-green)](#)
